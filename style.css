@@ -1,0 +1,92 @@
+
+#header{
+    background-color: rgb(91, 1, 152);
+    color: white;
+    text-align: right;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#Bold{
+    color: yellow;
+}
+#Register{
+    background-color: yellow;
+    color: rgb(87, 6, 128);
+}
+#mini{
+    height: 40px;
+    width: 160px;
+
+}
+#Hi{
+    background-color: rgb(146, 4, 254);
+    color: white;
+    border-radius: 20px;
+    display: flex;
+    align-items: end;
+}
+#You{
+    background-color: whitesmoke;
+    color: rgb(83, 0, 128);
+    border-radius: 20px;
+}
+#Jo{
+    width: 100vw;
+    height: min-content;
+}
+#Ki{
+    width: 100vw;
+    height: min-content;
+}
+.Lol{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 20px, 6px;
+    background-color: #fff;
+    margin-top: 10px;
+}
+.Nope{
+    border: 0px;
+}
+#Q{
+    color: yellow;
+}
+#Random{
+    color: rgb(141, 8, 186);
+    text-align: center;
+}
+.Nav{
+    display: flex;
+    align-items: end;
+    padding: 15px, 6px;
+    background-color: #fff;
+}
+.Flexing{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 20px, 6px;
+    background-color: #fff;
+}
+.Lp{
+    border: 1px solid black;
+}
+#Stuff{
+     text-align: center;
+}
+#Oi{
+    color: rgb(99, 51, 242, 0.7);
+}
+#icon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px, solid, black;
+    border-radius: 20px;
+    align-self: center;
+    width: 150px;
+    margin-left: 650px;
+}
+h5{
+    text-align: center;
+}
